@@ -1,2 +1,2 @@
-# thingy1
+# git-commands
 for assessment thing 
