@@ -8,11 +8,11 @@
   * -u sets an upstream branch so future pushes/pulls can be done without specifying the branch
 + pull Fetches and merges changes from a remote repository into your current branch
 + add adds changes to the staging area
-commit records changes to the repository.
--m Adds a message to a commit
--a Stages all modified tracked files automatically before committing
--am Combines staging and commit message into one command
-branch Lists, creates, or deletes branches
--a Lists all branches, including remote branches
--d Deletes a branch
-merge Combines changes from one branch into another
++ commit records changes to the repository.
+  * -m Adds a message to a commit
+  * -a Stages all modified tracked files automatically before committing
+  * -am Combines staging and commit message into one command
++ branch Lists, creates, or deletes branches
+  * -a Lists all branches, including remote branches
+  * -d Deletes a branch
++ merge Combines changes from one branch into another
